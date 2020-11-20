@@ -15,6 +15,7 @@ public class Alerts {
 		//driver.switchTo().alert().accept();
 		System.out.println("test1");
 		System.out.println("test2");
+		System.out.println("test3");
 		//driver.findElement(By.id("name")).sendKeys("Harish");
 		//driver.findElement(By.id("confirmbtn")).click();
 		//driver.switchTo().alert().dismiss();
